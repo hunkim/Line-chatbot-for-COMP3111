@@ -1,4 +1,4 @@
-# 2017F COMP3111/3111H Software Engineering Project github 
+# Our wonderful project home
 
 This is actually part of the course website of Hong Kong University of Science and Technology (HKUST) software enginnering course. The ultimate goal for this cohort students is to develop a chatbot (chatting robot) running on the instance messager LINE. 
 
